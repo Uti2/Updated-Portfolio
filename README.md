@@ -1,4 +1,4 @@
-## Hi, I am [Ekong, Utibe-Obong] 
+## Hi, I am [Ekong, Utibe-Obong Essiet] 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
